@@ -11,5 +11,5 @@ O perceptron sem camada oculta pode ser visto como $y = f(w . x + b)$, tendo
 - $b =$ viés;    
 - $f =$ função de ativação.  
 
-<img src="images/res.png" width="100%">  
+<img src="images/res.png" width="40%">  
 > Resultado de uma execução com 50 epochs.  
