@@ -3,4 +3,10 @@
 <img src="images/a.png" width="50%">  
 > Fonte: internet  
 
-## 
+## Conceito  
+
+O perceptron sem camada oculta pode ser visto como $y = f(w . x + b)$, tendo  
+- $x =$ conjunto de entrada;  
+- $w =$ pesos;   
+- $b =$ bias;  
+- $f =$ função de ativação.  
