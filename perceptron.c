@@ -42,6 +42,7 @@ void train(Perceptron *p, float **X, int *y, int samples, int epochs) {
     int e, i, j;
 
     for (e=0; e<epochs; e++){
+        printf("epoch %d ----------\n", e+1);
         for(i = 0; i<samples; i++) {
             int y_pred = predict(p, X[i]);
             int erro = y[i] - y_pred;

@@ -23,7 +23,7 @@ int main (void)
 
     train(p, X_train, y_train, N, EPOCHS);
     
-    printf("Pesos finais: \n");
+    printf("\nPesos finais: \n");
     
     int j;
     for(j = 0; j<FEATURES; j++) {
@@ -35,6 +35,7 @@ int main (void)
     float teste[FEATURES] = {20, 60, 150};
     int classe = predict(p, teste);
 
+    printf("\nExemplo de teste: {20, 60, 150}\n");
     printf("Classe prevista: %d\n", classe);
 
    
