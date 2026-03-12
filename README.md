@@ -1,1 +1,6 @@
-# Tentativa de implementar um perceptron one-layer em C
+# Perceptron one-layer em C
+
+![meme](images/a.png)  
+> Fonte: internet  
+
+## 
