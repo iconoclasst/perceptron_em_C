@@ -1,6 +1,6 @@
 # Perceptron one-layer em C
 
-![meme](images/a.png){width=50%}
+<img src="images/a.png" width="50%">  
 > Fonte: internet  
 
 ## 
