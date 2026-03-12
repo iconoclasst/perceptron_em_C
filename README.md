@@ -8,5 +8,5 @@
 O perceptron sem camada oculta pode ser visto como $y = f(w . x + b)$, tendo  
 - $x =$ conjunto de entrada;  
 - $w =$ pesos;   
-- $b =$ bias;  
+- $b =$ viés;    
 - $f =$ função de ativação.  
